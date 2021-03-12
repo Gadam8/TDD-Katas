@@ -77,7 +77,7 @@ namespace TDD_Katas_project.TheHarryPotterKata
         }
 
         [Test]
-        [TestCase(new [] { 1, 1, 2, 2, 3, 3, 4, 5 }, 51.20)]
+        [TestCase(new [] { 1, 1, 2, 2, 3, 3, 4, 5 }, 51.20)] //hint: the biggest discount combo possible should be used
         [TestCase(new [] { 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 5 }, 141.20)]
         public void BestDiscountComboIsApplied(int[] bookTitles, double expectedTotal)
         {
