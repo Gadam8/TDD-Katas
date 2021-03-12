@@ -27,9 +27,6 @@
 	For example, how much does this basket of books cost?
 
 	2 copies of the first book
-	2 copies of the second book
-	2 copies of the third book
-	1 copy of the fourth book
-	1 copy of the fifth book
+	1 copy of the second book
 
-	Answer: 51.60 EUR
+	Answer: 23.20 EUR
