@@ -4,13 +4,13 @@ using System;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace TDD_Katas_project.TheHarryPotterKata
+namespace TDD_Katas_project.ThePokerHandsKata
 {
-    public class HarryPotter
+    public class PokerHands
     {
-        public double CalculatePrice(int[] bookTitles)
+        public string ProcessCards(string[] hand1, string[] hand2)
         {
-            return 0;
+            return "";
         }
     }
 }
